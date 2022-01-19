@@ -1,0 +1,21 @@
+{
+  "name": "Simple-Text-Based-RPG",
+  "version": "1.0.0",
+  "description": "A simple text-based RPG",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Aapuji/Text-RPG.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node index.js"
+  },
+  "keywords": [],
+  "author": "Om Sharma <om.robotics16@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.10",
+    "readline-sync": "^1.4.10",
+    "typescript": "^4.5.4"
+  }
+}
